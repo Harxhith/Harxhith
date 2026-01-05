@@ -3,7 +3,7 @@
 
   <h3 align="center" style="border: none;" >I'm Harshith</h3> 
   <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=harxith&left_color=black&right_color=springgreen"  height="20px"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Harxhith&left_color=black&right_color=springgreen"  height="20px"/>
   </div>
   <br>
   <p align="center" >Welcome to my corner of the code world! I'm a passionate developer always striving for simplicity, efficiency, and innovation.
