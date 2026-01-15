@@ -31,9 +31,6 @@
   <a href="https://avengers-endgame-fight.netlify.app">
     <img src="https://img.shields.io/badge/Avengers_Endgame-D50000?style=for-the-badge&logo=unity&logoColor=white">
 </a>
-  <a href="https://duinoi2c.netlify.app">
-    <img src="https://img.shields.io/badge/DuinoI2C_ESP-E34F26?style=for-the-badge&logo=arduino&logoColor=white">
-  </a>
 </div>
 
 <h3 align="center" >Let’s Connect</h3>
