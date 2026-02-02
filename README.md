@@ -45,7 +45,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-stats-harxhith.vercel.app/api?username=Harxhith&rank_icon=github&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide=prs" alt="Harshith's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats-virid-eight-90.vercel.app/" alt="Harshith's GitHub stats" height="150"/>
   <img src="https://github-stats-harxhith.vercel.app/api/top-langs/?username=Harxhith&layout=compact&locale=en&hide_title=false&card_width=380&langs_count=8&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
