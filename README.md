@@ -45,7 +45,7 @@
 <h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <a href="https://github-readme-stats-virid-eight-90.vercel.app/" height="250"/>
+  <img href="https://github-readme-stats-virid-eight-90.vercel.app/" height="250"/>
 </div>
 
 
