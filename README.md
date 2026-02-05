@@ -54,10 +54,6 @@
       media="(max-width: 480px)"
       srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=8?layout=mobile"
     />
-    <img
-      src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=8"
-      alt="Github Stats"
-    />
   </picture>
 </div>
 
