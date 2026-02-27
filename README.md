@@ -22,15 +22,9 @@
 <h3 align="center" >Projects</h3>
 
 <div align="center">
-  <a href="https://fidgetsy.shop">
-    <img src="https://img.shields.io/badge/Fidgetsy-32E875?style=for-the-badge&logo=shopify&logoColor=white">
+   <a href="https://batvault.netlify.app">
+    <img src="https://img.shields.io/badge/BatVault-000000?style=for-the-badge&logo=vault&logoColor=white">
   </a>
-  <a href="https://cueclip.netlify.app">
-    <img src="https://img.shields.io/badge/Cueclip-8A2BE2?style=for-the-badge&logo=youtube&logoColor=white">
-  </a>
-  <a href="https://avengers-endgame-fight.netlify.app">
-    <img src="https://img.shields.io/badge/Avengers_Endgame-D50000?style=for-the-badge&logo=unity&logoColor=white">
-</a>
 </div>
 
 <h3 align="center" >Let’s Connect</h3>
