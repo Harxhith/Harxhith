@@ -21,7 +21,7 @@
 <h3 align="center" >Projects</h3>
 
 <div align="center">
-   <a href="https://batvault.netlify.app">
+   <a href="https://github.com/Harxhith/BatVault">
     <img src="https://img.shields.io/badge/BatVault-000000?style=for-the-badge&logo=vault&logoColor=white">
   </a>
 </div>
