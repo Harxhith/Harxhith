@@ -41,14 +41,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark) and (max-width: 480px)"
-      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=9?layout=mobile"
+      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=10?layout=mobile"
     />
     <source
       media="(max-width: 480px)"
-      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=9?layout=mobile"
+      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=10?layout=mobile"
     />
     <img
-      src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=9"
+      src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=10"
       alt="Github Stats"
     />
   </picture>
