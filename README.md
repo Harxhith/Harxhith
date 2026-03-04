@@ -24,6 +24,9 @@
    <a href="https://github.com/Harxhith/BatVault">
     <img src="https://img.shields.io/badge/BatVault-000000?style=for-the-badge&logo=vault&logoColor=white">
   </a>
+  <a href="https://github.com/Harxhith/Ghost32">
+    <img src="https://img.shields.io/badge/Ghost32-4A4A4A?style=for-the-badge&logo=espressif&logoColor=white">
+  </a>
 </div>
 
 <h3 align="center" >Let’s Connect</h3>
@@ -41,14 +44,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark) and (max-width: 480px)"
-      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=4?layout=mobile"
+      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=5?layout=mobile"
     />
     <source
       media="(max-width: 480px)"
-      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=2?layout=mobile"
+      srcset="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=4?layout=mobile"
     />
     <img
-      src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=2"
+      src="https://github-readme-stats-virid-eight-90.vercel.app/api/stats/?cache_buster=4"
       alt="Github Stats"
     />
   </picture>
